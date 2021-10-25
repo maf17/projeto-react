@@ -1,0 +1,11 @@
+{
+  "contatos": [
+    {
+      "nome": "Manuel",
+      "email": "manuelfuentesj@gmail.com",
+      "telefone": "95-984092281",
+      "grupo": "Super-heróis",
+      "id": 3
+    }
+  ]
+}
